@@ -1,0 +1,35 @@
+{
+  "name": "catapp",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@fortawesome/fontawesome": "^1.1.5",
+    "@fortawesome/fontawesome-free-solid": "^5.0.9",
+    "@fortawesome/react-fontawesome": "^0.0.18",
+    "classnames": "^2.2.5",
+    "history": "^4.7.2",
+    "immutable": "^3.8.2",
+    "isomorphic-fetch": "^2.2.1",
+    "lodash": "^4.17.5",
+    "react": "^16.3.1",
+    "react-dom": "^16.3.1",
+    "react-redux": "^5.0.7",
+    "react-router-redux": "^4.0.8",
+    "react-scripts": "1.1.4",
+    "react-swing": "^1.0.2",
+    "react-swipe-deck": "^0.1.17",
+    "redux": "^3.7.2",
+    "redux-immutable": "^4.0.0",
+    "redux-promise-middleware": "^5.0.0",
+    "redux-thunk": "^2.2.0",
+    "styled-components": "^3.2.5",
+    "uuid": "^3.2.1",
+    "xml-js": "^1.6.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
